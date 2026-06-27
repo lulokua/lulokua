@@ -66,7 +66,10 @@ You can reach me through GitHub.
 <div align="center">
 
 感谢访问我的 GitHub 主页！  
-Thanks for visiting my GitHub profile!
+
+或者联系我邮箱:
+lvlokua@outlook.com
+luandi@agent.qq.com
 
 </div>
 ```
