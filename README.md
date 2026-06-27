@@ -6,8 +6,6 @@
 欢迎来到我的 GitHub 主页  
 Welcome to my GitHub profile
 
-![lulokua's GitHub stats](https://github-readme-stats.vercel.app/api?username=lulokua&show_icons=true&theme=tokyonight)
-
 </div>
 
 ---
