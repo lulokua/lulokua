@@ -58,7 +58,7 @@ Welcome to my GitHub profile
 
 ## 📫 Contact / 联系方式
 
-你可以通过 GitHub 与我联系。  
+你可以通过 GitHub 与我联系
 You can reach me through GitHub.
 
 ---
